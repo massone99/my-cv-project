@@ -1,0 +1,897 @@
+{
+  "annotations": {
+    "version": "1.1",
+    "meta": {
+      "job": {
+        "id": "2",
+        "size": "50",
+        "mode": "annotation",
+        "overlap": "0",
+        "bugtracker": {
+        },
+        "created": "2023-12-03 11:01:53.856219+00:00",
+        "updated": "2023-12-03 12:01:48.377201+00:00",
+        "subset": "Train",
+        "start_frame": "0",
+        "stop_frame": "49",
+        "frame_filter": {
+        },
+        "segments": {
+          "segment": {
+            "id": "2",
+            "start": "0",
+            "stop": "49",
+            "url": "http://192.168.1.74:8080/api/jobs/2"
+          }
+        },
+        "owner": {
+          "username": "razvan",
+          "email": "razfv07@gmail.com"
+        },
+        "assignee": {
+        },
+        "labels": {
+          "label": {
+            "name": "logo",
+            "color": "#2acdcf",
+            "type": "any",
+            "attributes": "\n          "
+          }
+        }
+      },
+      "dumped": "2023-12-03 18:48:15.533309+00:00"
+    },
+    "image": [
+      {
+        "-id": "0",
+        "-name": "1.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "87.50",
+          "-ytl": "166.26",
+          "-xbr": "185.60",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "1",
+        "-name": "10.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "67.78",
+          "-ytl": "127.28",
+          "-xbr": "178.88",
+          "-ybr": "237.11",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "2",
+        "-name": "11.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "77.65",
+          "-ytl": "150.20",
+          "-xbr": "167.11",
+          "-ybr": "224.69",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "3",
+        "-name": "12.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "42.00",
+          "-ytl": "133.01",
+          "-xbr": "205.62",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "4",
+        "-name": "14.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "66.19",
+          "-ytl": "121.55",
+          "-xbr": "208.17",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "5",
+        "-name": "17.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "40.72",
+          "-ytl": "148.29",
+          "-xbr": "219.00",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "6",
+        "-name": "18.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "73.19",
+          "-ytl": "37.83",
+          "-xbr": "171.56",
+          "-ybr": "138.42",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "7",
+        "-name": "2.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "64.92",
+          "-ytl": "136.80",
+          "-xbr": "163.00",
+          "-ybr": "248.60",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "8",
+        "-name": "20.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "51.87",
+          "-ytl": "134.60",
+          "-xbr": "150.23",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "9",
+        "-name": "21.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "60.46",
+          "-ytl": "47.70",
+          "-xbr": "152.14",
+          "-ybr": "141.92",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "10",
+        "-name": "22.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "58.55",
+          "-ytl": "53.43",
+          "-xbr": "237.78",
+          "-ybr": "255.89",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "11",
+        "-name": "24.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "56.64",
+          "-ytl": "118.69",
+          "-xbr": "183.98",
+          "-ybr": "244.11",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "12",
+        "-name": "27.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "47.41",
+          "-ytl": "138.74",
+          "-xbr": "124.45",
+          "-ybr": "232.33",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "13",
+        "-name": "28.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "94.84",
+          "-ytl": "166.44",
+          "-xbr": "167.74",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "14",
+        "-name": "29.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "92.30",
+          "-ytl": "134.28",
+          "-xbr": "185.89",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "15",
+        "-name": "3.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "106.62",
+          "-ytl": "125.05",
+          "-xbr": "204.99",
+          "-ybr": "241.88",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "16",
+        "-name": "30.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "37.54",
+          "-ytl": "158.16",
+          "-xbr": "174.43",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "17",
+        "-name": "31.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "42.00",
+          "-ytl": "106.91",
+          "-xbr": "115.53",
+          "-ybr": "176.62",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "18",
+        "-name": "32.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "16.85",
+          "-ytl": "137.15",
+          "-xbr": "47.41",
+          "-ybr": "187.13",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "19",
+        "-name": "33.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "68.42",
+          "-ytl": "77.62",
+          "-xbr": "136.86",
+          "-ybr": "180.76",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "20",
+        "-name": "34.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "14.94",
+          "-ytl": "146.06",
+          "-xbr": "80.52",
+          "-ybr": "237.11",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "21",
+        "-name": "35.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "70.97",
+          "-ytl": "67.70",
+          "-xbr": "185.25",
+          "-ybr": "186.81",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "22",
+        "-name": "36.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "69.37",
+          "-ytl": "128.87",
+          "-xbr": "120.31",
+          "-ybr": "180.76",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "23",
+        "-name": "37.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "59.83",
+          "-ytl": "34.96",
+          "-xbr": "207.54",
+          "-ybr": "246.30",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "24",
+        "-name": "38.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "72.20",
+          "-ytl": "34.01",
+          "-xbr": "211.36",
+          "-ybr": "230.42",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "25",
+        "-name": "39.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "105.67",
+          "-ytl": "94.17",
+          "-xbr": "185.57",
+          "-ybr": "175.03",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "26",
+        "-name": "4.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "31.20",
+          "-ytl": "88.12",
+          "-xbr": "229.20",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "27",
+        "-name": "40.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "76.70",
+          "-ytl": "150.84",
+          "-xbr": "152.78",
+          "-ybr": "253.98",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "28",
+        "-name": "41.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "41.04",
+          "-ytl": "138.10",
+          "-xbr": "92.30",
+          "-ybr": "197.32",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "29",
+        "-name": "42.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "105.67",
+          "-ytl": "77.94",
+          "-xbr": "162.01",
+          "-ybr": "136.83",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "30",
+        "-name": "43.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "192.25",
+          "-ytl": "106.27",
+          "-xbr": "224.41",
+          "-ybr": "137.47",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "31",
+        "-name": "44.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "112.00",
+          "-ytl": "64.88",
+          "-xbr": "168.06",
+          "-ybr": "116.46",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "32",
+        "-name": "45.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "77.65",
+          "-ytl": "101.81",
+          "-xbr": "240.64",
+          "-ybr": "247.61",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "33",
+        "-name": "46.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "21.30",
+          "-ytl": "149.88",
+          "-xbr": "96.75",
+          "-ybr": "232.97",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "34",
+        "-name": "48.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "115.85",
+          "-ytl": "89.40",
+          "-xbr": "143.23",
+          "-ybr": "118.37",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "35",
+        "-name": "49.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "31.81",
+          "-ytl": "62.66",
+          "-xbr": "80.83",
+          "-ybr": "114.87",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "36",
+        "-name": "5.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "80.83",
+          "-ytl": "73.48",
+          "-xbr": "180.16",
+          "-ybr": "178.53",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "37",
+        "-name": "50.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "75.42",
+          "-ytl": "38.15",
+          "-xbr": "172.52",
+          "-ybr": "134.92",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "38",
+        "-name": "51.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "40.10",
+          "-ytl": "128.87",
+          "-xbr": "212.31",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "39",
+        "-name": "52.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "127.60",
+          "-ytl": "23.82",
+          "-xbr": "234.00",
+          "-ybr": "129.51",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "40",
+        "-name": "53.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "65.87",
+          "-ytl": "111.68",
+          "-xbr": "155.96",
+          "-ybr": "200.20",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "41",
+        "-name": "54.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "75.42",
+          "-ytl": "21.59",
+          "-xbr": "145.46",
+          "-ybr": "90.35",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "42",
+        "-name": "55.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "80.20",
+          "-ytl": "21.91",
+          "-xbr": "141.00",
+          "-ybr": "82.71",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "43",
+        "-name": "56.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "75.74",
+          "-ytl": "99.90",
+          "-xbr": "176.34",
+          "-ybr": "189.04",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "44",
+        "-name": "57.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "27.99",
+          "-ytl": "24.14",
+          "-xbr": "223.45",
+          "-ybr": "225.65",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "45",
+        "-name": "58.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "36.50",
+          "-ytl": "61.06",
+          "-xbr": "228.90",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "46",
+        "-name": "59.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "100.25",
+          "-ytl": "23.50",
+          "-xbr": "155.33",
+          "-ybr": "75.71",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "47",
+        "-name": "6.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "23.22",
+          "-ytl": "160.07",
+          "-xbr": "205.31",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "48",
+        "-name": "60.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "64.60",
+          "-ytl": "70.62",
+          "-xbr": "145.14",
+          "-ybr": "201.45",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      },
+      {
+        "-id": "49",
+        "-name": "9.jpg",
+        "-width": "256",
+        "-height": "256",
+        "box": {
+          "-label": "logo",
+          "-source": "manual",
+          "-occluded": "0",
+          "-xtl": "53.14",
+          "-ytl": "119.64",
+          "-xbr": "240.20",
+          "-ybr": "256.00",
+          "-z_order": "0",
+          "#text": "\n    "
+        }
+      }
+    ]
+  }
+}
